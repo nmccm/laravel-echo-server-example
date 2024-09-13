@@ -28,4 +28,4 @@ BROADCAST_DRIVER=redis // default = log
 
 http://localhost:8003
 
-Reference URL : https://nmccm.github.io/framework/laravel/php/laravel-echo-server/laravel8-echo/
+Reference URL : https://nmccm.github.io/php/laravel/laravel8-echo/ 
